@@ -1,5 +1,5 @@
 <h1 align="left" style="border-bottom: none;"><span style="font-size:20px;">Oi</span>, aqui é o Arthur, estudante de Tecnologia! 👋</h1>
-<h2>🧑‍💻 Um pouco sobre mim:</h2>
+<h2>🧑‍💻 Um pouco sobre mim</h2>
 
 Estou no último ano do curso Técnico em Desenvolvimento de Sistemas, período em que venho estudando lógica de programação, desenvolvimento web e boas práticas de programação. Ao concluir o curso técnico, pretendo ingressar na faculdade de Engenharia de Software, com o objetivo de aprofundar meus conhecimentos e ampliar minha experiência na área de tecnologia.
 
